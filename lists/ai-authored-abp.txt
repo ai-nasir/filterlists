@@ -4,9 +4,9 @@
 ! Homepage: https://github.com/ai-nasir/filterlists
 ! License: https://github.com/ai-nasir/filterlists/LICENSE
 ! Expires: 7 days (update frequency)
-! Last modified: 2026-02-15T11:49:52+00:00
-! Version: 20260215114952
-! Entries: 510
+! Last modified: 2026-02-22T01:25:53+00:00
+! Version: 20260222012553
+! Entries: 511
 !
 ||1902studios.com^
 ||1gbits.com^
@@ -133,6 +133,7 @@
 ||diy-plans.com^
 ||dlightdaily.com^
 ||dollartimes.co.uk^
+||dotlinux.net^
 ||dppet.com^
 ||drewcaptures.com^
 ||drzlc.com^
