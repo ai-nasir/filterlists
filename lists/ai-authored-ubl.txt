@@ -2,7 +2,7 @@
 name: Ai-nasir's AI-Authored Content Blocklist
 description: Block websites that deceptively serve AI-generated content as human-authored.
 homepage: https://github.com/ai-nasir/filterlists
-version: 20260222012553
+version: 20260227093725
 ---
 *://*.1902studios.com/*
 *://*.1gbits.com/*
@@ -43,6 +43,7 @@ version: 20260222012553
 *://*.bikewise.io/*
 *://*.bindassnews.com/*
 *://*.bioimpress.com/*
+*://*.bioinfolabe.com/*
 *://*.bishopwcmartin.com/*
 *://*.bistrovista.com/*
 *://*.bizinerworld.com/*
