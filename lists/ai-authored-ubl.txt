@@ -2,7 +2,7 @@
 name: Ai-nasir's AI-Authored Content Blocklist
 description: Block websites that deceptively serve AI-generated content as human-authored.
 homepage: https://github.com/ai-nasir/filterlists
-version: 20260301143517
+version: 20260301154021
 ---
 *://*.1902studios.com/*
 *://*.1gbits.com/*
@@ -159,6 +159,7 @@ version: 20260301143517
 *://*.completelifter.com/*
 *://*.compoinc.com/*
 *://*.condecker.com/*
+*://*.connectionshints.org/*
 *://*.cooknight.net/*
 *://*.cookvio.com/*
 *://*.coperewards.net/*
@@ -255,6 +256,7 @@ version: 20260301143517
 *://*.everytalkin.co.uk/*
 *://*.evonygalore.co.uk/*
 *://*.exchangetime24.com/*
+*://*.exclusiveblog.com/*
 *://*.expertbeacon.com/*
 *://*.explorenest.net/*
 *://*.faceinfame.com/*
@@ -288,6 +290,7 @@ version: 20260301143517
 *://*.findmagazine.co.uk/*
 *://*.fintechasia.co.uk/*
 *://*.fintechasia.us/*
+*://*.fintechzoom.pro/*
 *://*.fissionshareemail.com/*
 *://*.fixdecker.com/*
 *://*.fixpather.com/*
@@ -298,6 +301,7 @@ version: 20260301143517
 *://*.foodblogalliance.com/*
 *://*.foodmins.com/*
 *://*.fourmagazine.co.uk/*
+*://*.fpmomtips.net/*
 *://*.fpmomtips.org/*
 *://*.freshlifetips.net/*
 *://*.frissonhome.com/*
@@ -419,7 +423,9 @@ version: 20260301143517
 *://*.itwizzydigital.org/*
 *://*.izonemedia360.org/*
 *://*.jalbiteblog.com/*
+*://*.jalbiteblog.net/*
 *://*.jalbiteblog.org/*
+*://*.jalbiteblogfood.com/*
 *://*.jalbiteblogfoodtrends.com/*
 *://*.jalbitehealth.net/*
 *://*.jalbitehealth.org/*
@@ -438,10 +444,17 @@ version: 20260301143517
 *://*.kahanchale.com/*
 *://*.kamalasohonie.com/*
 *://*.kazadverts.com/*
+*://*.kazgrowmag.com/*
 *://*.kazinfotime.com/*
 *://*.kazlifestyle.com/*
 *://*.kazmagazine.com/*
+*://*.kdarchistyle.com/*
 *://*.kdarchistyle.org/*
+*://*.kdarchitects.blog/*
+*://*.kdarchitects.net/*
+*://*.kdarchitectsnet.com/*
+*://*.kdarchitectsnet.net/*
+*://*.kdarchitectsnet.org/*
 *://*.ke4rx.org/*
 *://*.keloland.org/*
 *://*.kennwhitaker.com/*
@@ -514,6 +527,7 @@ version: 20260301143517
 *://*.makeovera.com/*
 *://*.managementworksmedia.com/*
 *://*.marketbusinessideas.com/*
+*://*.marketsections.com/*
 *://*.masonjarbreakfast.com/*
 *://*.masteryourtech.com/*
 *://*.matingpress.org/*
@@ -540,6 +554,7 @@ version: 20260301143517
 *://*.mustreadtoday.com/*
 *://*.mybeautifuladventure.org/*
 *://*.myfastbrokeres.com/*
+*://*.myfavouriteplacesorg.org/*
 *://*.mygardenandpatio.org/*
 *://*.myhomeniche.com/*
 *://*.mymagazine.blog/*
@@ -613,6 +628,7 @@ version: 20260301143517
 *://*.pinstoppin.com/*
 *://*.piquredinsecte.com/*
 *://*.playbattlesquare.net/*
+*://*.playbattlesquare.org/*
 *://*.plutoscreenlife.com/*
 *://*.pocketmemories.org/*
 *://*.pocketstrafe.com/*
@@ -631,6 +647,7 @@ version: 20260301143517
 *://*.probhag.com/*
 *://*.programgeeks.co.uk/*
 *://*.programgeeks.uk/*
+*://*.prohomeinsight.com/*
 *://*.proxylists.org/*
 *://*.proxyscrape.com/*
 *://*.psbios.co.uk/*
@@ -739,6 +756,7 @@ version: 20260301143517
 *://*.techjury.net/*
 *://*.techlikez.com/*
 *://*.technewsinfoo.com/*
+*://*.technewztop.co.uk/*
 *://*.technoflavours.com/*
 *://*.techslassh.blog/*
 *://*.techspoto.com/*
@@ -858,6 +876,10 @@ version: 20260301143517
 *://*.ustudiobytes.com/*
 *://*.ustudiobytes.org/*
 *://*.valueupinfo.com/*
+*://*.valueyournetwork.co.uk/*
+*://*.valueyournetwork.com/*
+*://*.valueyournetwork.net/*
+*://*.valueyournetwork.org/*
 *://*.valueyournetworkcom.org/*
 *://*.veiranda.com/*
 *://*.velokrivbass.com/*
