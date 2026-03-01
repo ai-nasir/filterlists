@@ -2,7 +2,7 @@
 name: Ai-nasir's AI-Authored Content Blocklist
 description: Block websites that deceptively serve AI-generated content as human-authored.
 homepage: https://github.com/ai-nasir/filterlists
-version: 20260301154021
+version: 20260301214441
 ---
 *://*.1902studios.com/*
 *://*.1gbits.com/*
@@ -94,6 +94,7 @@ version: 20260301154021
 *://*.blueskyblogging.com/*
 *://*.bogardhealth.com/*
 *://*.boldfact.org/*
+*://*.boring-magazine.com/*
 *://*.borncyan.com/*
 *://*.bouncemediagroup.net/*
 *://*.bouncemediagroup.org/*
@@ -240,6 +241,7 @@ version: 20260301154021
 *://*.elosecretairefreelance.fr/*
 *://*.emberslasvegas.org/*
 *://*.empirecaption.com/*
+*://*.emsisd.co.uk/*
 *://*.englishgrammarzone.com/*
 *://*.enterinit.com/*
 *://*.eromelove.com/*
@@ -301,6 +303,7 @@ version: 20260301154021
 *://*.foodblogalliance.com/*
 *://*.foodmins.com/*
 *://*.fourmagazine.co.uk/*
+*://*.fpmomtips.co.uk/*
 *://*.fpmomtips.net/*
 *://*.fpmomtips.org/*
 *://*.freshlifetips.net/*
@@ -330,6 +333,7 @@ version: 20260301154021
 *://*.geekonfashion.com/*
 *://*.geteasyway.org/*
 *://*.giftsoka.com/*
+*://*.giveawayslookwhatmomfound.com/*
 *://*.glimsee.com/*
 *://*.glitteringgenerality.com/*
 *://*.globaltravelmag.com/*
@@ -375,6 +379,7 @@ version: 20260301154021
 *://*.homehearted.net/*
 *://*.homeimprovementgeek.com/*
 *://*.homelifestylehub.org/*
+*://*.homeluxurylifestyle.com/*
 *://*.homenumental.com/*
 *://*.homescale.net/*
 *://*.homestylish.org/*
@@ -510,9 +515,11 @@ version: 20260301154021
 *://*.lumemagazine.com/*
 *://*.lumerink.com/*
 *://*.lumondefinition.com/*
+*://*.lumondefinition.org/*
 *://*.lushpixel.co.uk/*
 *://*.luveletter.com/*
 *://*.luxurylifestyleblogs.com/*
+*://*.lwmfcrafts.com/*
 *://*.lwmftravel.org/*
 *://*.lyncconf.net/*
 *://*.lyncconfmods.com/*
@@ -542,6 +549,7 @@ version: 20260301154021
 *://*.meregate.com/*
 *://*.miaaa.org/*
 *://*.mintpaldecor.net/*
+*://*.misalignment.net/*
 *://*.mobilewitch.com/*
 *://*.mobmunch.com/*
 *://*.modelo.io/*
@@ -599,6 +607,7 @@ version: 20260301154021
 *://*.onlyfanss.co.uk/*
 *://*.onpresscapital.com/*
 *://*.onpresscapital.org/*
+*://*.ontpeconomy.blog/*
 *://*.ontpeconomy.com/*
 *://*.optnode.com/*
 *://*.ourcutebabies.com/*
@@ -629,6 +638,7 @@ version: 20260301154021
 *://*.piquredinsecte.com/*
 *://*.playbattlesquare.net/*
 *://*.playbattlesquare.org/*
+*://*.plugboxlinuxorg.org/*
 *://*.plutoscreenlife.com/*
 *://*.pocketmemories.org/*
 *://*.pocketstrafe.com/*
@@ -668,6 +678,7 @@ version: 20260301154021
 *://*.reactstateofmind.com/*
 *://*.realizepadstore.com/*
 *://*.recette-yaourt.fr/*
+*://*.redandwhitemagzcom.com/*
 *://*.redandwhitemagzs.org/*
 *://*.redlawa.com/*
 *://*.redwingnews.com/*
@@ -679,6 +690,7 @@ version: 20260301154021
 *://*.revolvertech.co.uk/*
 *://*.richlifeinsiders.com/*
 *://*.riddlor.com/*
+*://*.riproar.net/*
 *://*.roarleveraging.org/*
 *://*.rockfordcycling.com/*
 *://*.rosedollexpo.com/*
@@ -925,6 +937,7 @@ version: 20260301154021
 *://*.wishstuff.com/*
 *://*.wittyfeed.co.uk/*
 *://*.wittymagazine.co.uk/*
+*://*.wizzydigitalorg.org/*
 *://*.wizzydigitalorgg.com/*
 *://*.wkbn.co.uk/*
 *://*.wonderday.co.uk/*
