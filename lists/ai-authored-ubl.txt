@@ -2,7 +2,7 @@
 name: Ai-nasir's AI-Authored Content Blocklist
 description: Block websites that deceptively serve AI-generated content as human-authored.
 homepage: https://github.com/ai-nasir/filterlists
-version: 20260301142007
+version: 20260301143517
 ---
 *://*.1902studios.com/*
 *://*.1gbits.com/*
@@ -41,6 +41,7 @@ version: 20260301142007
 *://*.babiesandbeauty.com/*
 *://*.backinsights.com/*
 *://*.baddies-hub.co.uk/*
+*://*.bageltechnews.net/*
 *://*.bageltechnews.org/*
 *://*.bauchredner-gala.de/*
 *://*.bbmtech.co.uk/*
@@ -51,7 +52,9 @@ version: 20260301142007
 *://*.bestoftci.com/*
 *://*.bestroofingcompanies.us/*
 *://*.betterclassbusiness.com/*
+*://*.betterthatworld.org/*
 *://*.betterthiscosmos.com/*
+*://*.betterthiscosmos.org/*
 *://*.betterthisfacts.com/*
 *://*.betterthisfacts.org/*
 *://*.betterthistechs.org/*
@@ -354,6 +357,7 @@ version: 20260301142007
 *://*.heartumental.org/*
 *://*.hernlen.com/*
 *://*.hernlen.org/*
+*://*.heylookwhatmomfound.com/*
 *://*.hiddenworldtour.com/*
 *://*.hizzaboloufazic.com/*
 *://*.hobbii.org/*
@@ -498,6 +502,7 @@ version: 20260301142007
 *://*.luxurylifestyleblogs.com/*
 *://*.lwmftravel.org/*
 *://*.lyncconf.net/*
+*://*.lyncconfmods.com/*
 *://*.magazinenyc.com/*
 *://*.magazineoutstanders.com/*
 *://*.magazinesbuzz.co.uk/*
@@ -532,6 +537,7 @@ version: 20260301142007
 *://*.motivationmagzien.com/*
 *://*.multihealthpro.com/*
 *://*.musicayletras.co/*
+*://*.mustreadtoday.com/*
 *://*.mybeautifuladventure.org/*
 *://*.myfastbrokeres.com/*
 *://*.mygardenandpatio.org/*
@@ -777,6 +783,7 @@ version: 20260301142007
 *://*.thenumerist.com/*
 *://*.theovations.com/*
 *://*.thepalacedream.com/*
+*://*.thepedrovazpaulo.com/*
 *://*.thepickupnews.com/*
 *://*.thepointm.com/*
 *://*.therawrap.co/*

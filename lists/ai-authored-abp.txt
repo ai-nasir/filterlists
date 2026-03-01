@@ -4,9 +4,9 @@
 ! Homepage: https://github.com/ai-nasir/filterlists
 ! License: https://github.com/ai-nasir/filterlists/LICENSE
 ! Expires: 7 days (update frequency)
-! Last modified: 2026-03-01T14:20:07+00:00
-! Version: 20260301142007
-! Entries: 933
+! Last modified: 2026-03-01T14:35:17+00:00
+! Version: 20260301143517
+! Entries: 940
 !
 ||1902studios.com^
 ||1gbits.com^
@@ -45,6 +45,7 @@
 ||babiesandbeauty.com^
 ||backinsights.com^
 ||baddies-hub.co.uk^
+||bageltechnews.net^
 ||bageltechnews.org^
 ||bauchredner-gala.de^
 ||bbmtech.co.uk^
@@ -55,7 +56,9 @@
 ||bestoftci.com^
 ||bestroofingcompanies.us^
 ||betterclassbusiness.com^
+||betterthatworld.org^
 ||betterthiscosmos.com^
+||betterthiscosmos.org^
 ||betterthisfacts.com^
 ||betterthisfacts.org^
 ||betterthistechs.org^
@@ -358,6 +361,7 @@
 ||heartumental.org^
 ||hernlen.com^
 ||hernlen.org^
+||heylookwhatmomfound.com^
 ||hiddenworldtour.com^
 ||hizzaboloufazic.com^
 ||hobbii.org^
@@ -502,6 +506,7 @@
 ||luxurylifestyleblogs.com^
 ||lwmftravel.org^
 ||lyncconf.net^
+||lyncconfmods.com^
 ||magazinenyc.com^
 ||magazineoutstanders.com^
 ||magazinesbuzz.co.uk^
@@ -536,6 +541,7 @@
 ||motivationmagzien.com^
 ||multihealthpro.com^
 ||musicayletras.co^
+||mustreadtoday.com^
 ||mybeautifuladventure.org^
 ||myfastbrokeres.com^
 ||mygardenandpatio.org^
@@ -781,6 +787,7 @@
 ||thenumerist.com^
 ||theovations.com^
 ||thepalacedream.com^
+||thepedrovazpaulo.com^
 ||thepickupnews.com^
 ||thepointm.com^
 ||therawrap.co^
