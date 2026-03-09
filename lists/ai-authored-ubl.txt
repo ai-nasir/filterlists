@@ -2,7 +2,7 @@
 name: Ai-nasir's AI-Authored Content Blocklist
 description: Block websites that deceptively serve AI-generated content as human-authored.
 homepage: https://github.com/ai-nasir/filterlists
-version: 20260301214441
+version: 20260309233150
 ---
 *://*.1902studios.com/*
 *://*.1gbits.com/*
@@ -17,9 +17,11 @@ version: 20260301214441
 *://*.activepropertycare.info/*
 *://*.adilifestyle.com/*
 *://*.aeanet.org/*
+*://*.agga-consulting.com/*
 *://*.agilebodyzone.com/*
 *://*.aicloudit.com/*
 *://*.akadata.ltd/*
+*://*.allaboutawnings.co.uk/*
 *://*.allinthedifference.com/*
 *://*.alltimenames.com/*
 *://*.alltimes.org/*
@@ -32,6 +34,7 @@ version: 20260301214441
 *://*.articlereaders.org/*
 *://*.artofcode.org/*
 *://*.ashborland.com/*
+*://*.ashenaletube.net/*
 *://*.assurancemaisonenergie.fr/*
 *://*.athletex-global.com/*
 *://*.athoughtofday.com/*
@@ -40,6 +43,7 @@ version: 20260301214441
 *://*.azjankari.com/*
 *://*.babiesandbeauty.com/*
 *://*.backinsights.com/*
+*://*.backtofrontshow.com/*
 *://*.baddies-hub.co.uk/*
 *://*.bageltechnews.net/*
 *://*.bageltechnews.org/*
@@ -137,6 +141,7 @@ version: 20260301214441
 *://*.celebritybiograph.com/*
 *://*.celebritycaster.com/*
 *://*.celebritymagazine.co.uk/*
+*://*.celebritynew.com/*
 *://*.celebsbiofolio.com/*
 *://*.celebsglory.com/*
 *://*.charlotte-milkau.de/*
@@ -147,6 +152,7 @@ version: 20260301214441
 *://*.clearskinstudy.org/*
 *://*.clearskinstudycom.com/*
 *://*.clipvishly.com/*
+*://*.closermagazine.co.uk/*
 *://cloudinary.com/*
 *://*.cloudnexuslab.com/*
 *://*.cloudns.net/*
@@ -161,6 +167,7 @@ version: 20260301214441
 *://*.compoinc.com/*
 *://*.condecker.com/*
 *://*.connectionshints.org/*
+*://*.conversationswithtiffany.com/*
 *://*.cooknight.net/*
 *://*.cookvio.com/*
 *://*.coperewards.net/*
@@ -333,6 +340,7 @@ version: 20260301214441
 *://*.geekonfashion.com/*
 *://*.geteasyway.org/*
 *://*.giftsoka.com/*
+*://*.gilnorton.com/*
 *://*.giveawayslookwhatmomfound.com/*
 *://*.glimsee.com/*
 *://*.glitteringgenerality.com/*
@@ -397,6 +405,7 @@ version: 20260301214441
 *://*.hypeprofiles.com/*
 *://*.hyperjerk.com/*
 *://*.i5apps.com/*
+*://*.icass-conf.com/*
 *://*.icostamp.net/*
 *://*.icsehub.com/*
 *://*.igsty.blog/*
@@ -408,6 +417,7 @@ version: 20260301214441
 *://*.impocoolmom.org/*
 *://*.importantcool.net/*
 *://*.indigosoftwarecompany.com/*
+*://*.infinityelse.co.uk/*
 *://*.influencersgonewildblog.com/*
 *://*.infonesthub.co.uk/*
 *://*.informaticsview.com/*
@@ -463,7 +473,9 @@ version: 20260301214441
 *://*.ke4rx.org/*
 *://*.keloland.org/*
 *://*.kennwhitaker.com/*
+*://*.khatrinews.co.uk/*
 *://*.kibho.co.uk/*
+*://*.kinelu.co.uk/*
 *://*.kitchenmagician.co.uk/*
 *://*.kivomind.com/*
 *://*.kkcboss.co.uk/*
@@ -636,6 +648,7 @@ version: 20260301214441
 *://*.pinstopin.com/*
 *://*.pinstoppin.com/*
 *://*.piquredinsecte.com/*
+*://*.planglow.org/*
 *://*.playbattlesquare.net/*
 *://*.playbattlesquare.org/*
 *://*.plugboxlinuxorg.org/*
@@ -647,6 +660,7 @@ version: 20260301214441
 *://*.politeblog.com/*
 *://*.popculturechat.net/*
 *://*.popculturechat.org/*
+*://*.postora.co.uk/*
 *://*.powerfinal.com/*
 *://*.powerfulgummies.net/*
 *://*.powermiss.com/*
@@ -694,6 +708,7 @@ version: 20260301214441
 *://*.roarleveraging.org/*
 *://*.rockfordcycling.com/*
 *://*.rosedollexpo.com/*
+*://*.rousernews.com/*
 *://*.samosguide.com/*
 *://*.sastranusa.com/*
 *://*.sattmataka.com/*
@@ -707,6 +722,7 @@ version: 20260301214441
 *://*.sffarehockey.net/*
 *://*.sfmcompileclub.co.uk/*
 *://*.sgtrends.org/*
+*://*.shanghaikellys.com/*
 *://*.shiftychevre.com/*
 *://*.shopnaclos.org/*
 *://*.showbizztoday.org/*
@@ -714,6 +730,7 @@ version: 20260301214441
 *://*.sigmasa.co.uk/*
 *://*.silicon-insider.net/*
 *://*.simpcitysu.net/*
+*://*.singer-friedlander.com/*
 *://*.sllives.com/*
 *://*.smartbork.com/*
 *://*.smartcdripper.com/*
@@ -788,6 +805,7 @@ version: 20260301214441
 *://*.thebusinesssky.com/*
 *://*.thedailytribute.com/*
 *://*.thedallasdirectory.com/*
+*://*.theethnicgrocer.com/*
 *://*.thefamousparenting.org/*
 *://*.thefashionhob.com/*
 *://*.thefruityco.com/*
@@ -807,6 +825,7 @@ version: 20260301214441
 *://*.thelinuxcode.com/*
 *://*.theloveblog.org/*
 *://*.thelowdownunder.org/*
+*://*.themagazines.co.uk/*
 *://*.themalemag.com/*
 *://*.thenewcub.com/*
 *://*.thenomadicpanda.com/*
@@ -836,6 +855,7 @@ version: 20260301214441
 *://*.theunsent.net/*
 *://*.thevalueyournetwork.com/*
 *://*.theweeklyhealthiness.co/*
+*://*.thewhodirect.com/*
 *://*.thisolderhouse.com/*
 *://*.thithtoolwin.com/*
 *://*.thunderonthegulf.co.uk/*
@@ -966,6 +986,7 @@ version: 20260301214441
 *://*.wutawhacks.org/*
 *://*.wutawhelp.org/*
 *://*.www-influencersgonewild.com/*
+*://*.xutaoblog.com/*
 *://*.yarddecoration.org/*
 *://*.yogapip.com/*
 *://*.yooooga.com/*
@@ -979,3 +1000,4 @@ version: 20260301214441
 *://*.zeromagtech.org/*
 *://*.zigaero.com/*
 *://*.zoomfeel.org/*
+*://*.zooplas.co.uk/*

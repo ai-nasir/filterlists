@@ -4,9 +4,9 @@
 ! Homepage: https://github.com/ai-nasir/filterlists
 ! License: https://github.com/ai-nasir/filterlists/LICENSE
 ! Expires: 7 days (update frequency)
-! Last modified: 2026-03-01T21:44:41+00:00
-! Version: 20260301214441
-! Entries: 975
+! Last modified: 2026-03-09T23:31:50+00:00
+! Version: 20260309233150
+! Entries: 997
 !
 ||1902studios.com^
 ||1gbits.com^
@@ -21,9 +21,11 @@
 ||activepropertycare.info^
 ||adilifestyle.com^
 ||aeanet.org^
+||agga-consulting.com^
 ||agilebodyzone.com^
 ||aicloudit.com^
 ||akadata.ltd^
+||allaboutawnings.co.uk^
 ||allinthedifference.com^
 ||alltimenames.com^
 ||alltimes.org^
@@ -36,6 +38,7 @@
 ||articlereaders.org^
 ||artofcode.org^
 ||ashborland.com^
+||ashenaletube.net^
 ||assurancemaisonenergie.fr^
 ||athletex-global.com^
 ||athoughtofday.com^
@@ -44,6 +47,7 @@
 ||azjankari.com^
 ||babiesandbeauty.com^
 ||backinsights.com^
+||backtofrontshow.com^
 ||baddies-hub.co.uk^
 ||bageltechnews.net^
 ||bageltechnews.org^
@@ -141,6 +145,7 @@
 ||celebritybiograph.com^
 ||celebritycaster.com^
 ||celebritymagazine.co.uk^
+||celebritynew.com^
 ||celebsbiofolio.com^
 ||celebsglory.com^
 ||charlotte-milkau.de^
@@ -151,6 +156,7 @@
 ||clearskinstudy.org^
 ||clearskinstudycom.com^
 ||clipvishly.com^
+||closermagazine.co.uk^
 |*://cloudinary.com^
 ||cloudnexuslab.com^
 ||cloudns.net^
@@ -165,6 +171,7 @@
 ||compoinc.com^
 ||condecker.com^
 ||connectionshints.org^
+||conversationswithtiffany.com^
 ||cooknight.net^
 ||cookvio.com^
 ||coperewards.net^
@@ -337,6 +344,7 @@
 ||geekonfashion.com^
 ||geteasyway.org^
 ||giftsoka.com^
+||gilnorton.com^
 ||giveawayslookwhatmomfound.com^
 ||glimsee.com^
 ||glitteringgenerality.com^
@@ -401,6 +409,7 @@
 ||hypeprofiles.com^
 ||hyperjerk.com^
 ||i5apps.com^
+||icass-conf.com^
 ||icostamp.net^
 ||icsehub.com^
 ||igsty.blog^
@@ -412,6 +421,7 @@
 ||impocoolmom.org^
 ||importantcool.net^
 ||indigosoftwarecompany.com^
+||infinityelse.co.uk^
 ||influencersgonewildblog.com^
 ||infonesthub.co.uk^
 ||informaticsview.com^
@@ -467,7 +477,9 @@
 ||ke4rx.org^
 ||keloland.org^
 ||kennwhitaker.com^
+||khatrinews.co.uk^
 ||kibho.co.uk^
+||kinelu.co.uk^
 ||kitchenmagician.co.uk^
 ||kivomind.com^
 ||kkcboss.co.uk^
@@ -640,6 +652,7 @@
 ||pinstopin.com^
 ||pinstoppin.com^
 ||piquredinsecte.com^
+||planglow.org^
 ||playbattlesquare.net^
 ||playbattlesquare.org^
 ||plugboxlinuxorg.org^
@@ -651,6 +664,7 @@
 ||politeblog.com^
 ||popculturechat.net^
 ||popculturechat.org^
+||postora.co.uk^
 ||powerfinal.com^
 ||powerfulgummies.net^
 ||powermiss.com^
@@ -698,6 +712,7 @@
 ||roarleveraging.org^
 ||rockfordcycling.com^
 ||rosedollexpo.com^
+||rousernews.com^
 ||samosguide.com^
 ||sastranusa.com^
 ||sattmataka.com^
@@ -711,6 +726,7 @@
 ||sffarehockey.net^
 ||sfmcompileclub.co.uk^
 ||sgtrends.org^
+||shanghaikellys.com^
 ||shiftychevre.com^
 ||shopnaclos.org^
 ||showbizztoday.org^
@@ -718,6 +734,7 @@
 ||sigmasa.co.uk^
 ||silicon-insider.net^
 ||simpcitysu.net^
+||singer-friedlander.com^
 ||sllives.com^
 ||smartbork.com^
 ||smartcdripper.com^
@@ -792,6 +809,7 @@
 ||thebusinesssky.com^
 ||thedailytribute.com^
 ||thedallasdirectory.com^
+||theethnicgrocer.com^
 ||thefamousparenting.org^
 ||thefashionhob.com^
 ||thefruityco.com^
@@ -811,6 +829,7 @@
 ||thelinuxcode.com^
 ||theloveblog.org^
 ||thelowdownunder.org^
+||themagazines.co.uk^
 ||themalemag.com^
 ||thenewcub.com^
 ||thenomadicpanda.com^
@@ -840,6 +859,7 @@
 ||theunsent.net^
 ||thevalueyournetwork.com^
 ||theweeklyhealthiness.co^
+||thewhodirect.com^
 ||thisolderhouse.com^
 ||thithtoolwin.com^
 ||thunderonthegulf.co.uk^
@@ -970,6 +990,7 @@
 ||wutawhacks.org^
 ||wutawhelp.org^
 ||www-influencersgonewild.com^
+||xutaoblog.com^
 ||yarddecoration.org^
 ||yogapip.com^
 ||yooooga.com^
@@ -983,3 +1004,4 @@
 ||zeromagtech.org^
 ||zigaero.com^
 ||zoomfeel.org^
+||zooplas.co.uk^
