@@ -4,9 +4,9 @@
 ! Homepage: https://github.com/ai-nasir/filterlists
 ! License: https://github.com/ai-nasir/filterlists/LICENSE
 ! Expires: 7 days (update frequency)
-! Last modified: 2026-03-09T23:31:50+00:00
-! Version: 20260309233150
-! Entries: 997
+! Last modified: 2026-04-05T02:31:23+00:00
+! Version: 20260405023123
+! Entries: 998
 !
 ||1902studios.com^
 ||1gbits.com^
@@ -676,6 +676,7 @@
 ||programgeeks.co.uk^
 ||programgeeks.uk^
 ||prohomeinsight.com^
+||proxy-zone.net^
 ||proxylists.org^
 ||proxyscrape.com^
 ||psbios.co.uk^

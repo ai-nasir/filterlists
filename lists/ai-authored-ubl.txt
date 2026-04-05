@@ -2,7 +2,7 @@
 name: Ai-nasir's AI-Authored Content Blocklist
 description: Block websites that deceptively serve AI-generated content as human-authored.
 homepage: https://github.com/ai-nasir/filterlists
-version: 20260309233150
+version: 20260405023123
 ---
 *://*.1902studios.com/*
 *://*.1gbits.com/*
@@ -672,6 +672,7 @@ version: 20260309233150
 *://*.programgeeks.co.uk/*
 *://*.programgeeks.uk/*
 *://*.prohomeinsight.com/*
+*://*.proxy-zone.net/*
 *://*.proxylists.org/*
 *://*.proxyscrape.com/*
 *://*.psbios.co.uk/*
