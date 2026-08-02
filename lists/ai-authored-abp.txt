@@ -4,9 +4,9 @@
 ! Homepage: https://github.com/ai-nasir/filterlists
 ! License: https://github.com/ai-nasir/filterlists/LICENSE
 ! Expires: 7 days (update frequency)
-! Last modified: 2026-08-02T11:53:00+00:00
-! Version: 20260802115300
-! Entries: 1007
+! Last modified: 2026-08-02T13:13:01+00:00
+! Version: 20260802131301
+! Entries: 1011
 !
 ||1902studios.com^
 ||1gbits.com^
@@ -194,6 +194,7 @@
 ||dailynewsbuzz.co.uk^
 ||dailyscopemagazine.com^
 ||dailystylish.net^
+||dakchicken.com^
 ||danandshay.org^
 ||danieldigitaldiary.com^
 ||dar-care.com^
@@ -508,6 +509,8 @@
 ||lengthygoal.com^
 ||lesbify.us^
 ||libertyvslynx.com^
+||lifeindogyears.com^
+||lifemydog.co.uk^
 ||lifestylemissions.com^
 ||lifestylesblogs.co.uk^
 ||lifestylo.net^
@@ -587,6 +590,7 @@
 ||myhomeniche.com^
 ||mymagazine.blog^
 ||mynextmag.com^
+||mypetexperts.com^
 ||mysananton.com^
 ||mysterymagazine.co.uk^
 ||mywebinsurance.org^
