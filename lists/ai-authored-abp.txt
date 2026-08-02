@@ -4,9 +4,9 @@
 ! Homepage: https://github.com/ai-nasir/filterlists
 ! License: https://github.com/ai-nasir/filterlists/LICENSE
 ! Expires: 7 days (update frequency)
-! Last modified: 2026-04-07T20:13:32+00:00
-! Version: 20260407201332
-! Entries: 999
+! Last modified: 2026-08-02T11:53:00+00:00
+! Version: 20260802115300
+! Entries: 1007
 !
 ||1902studios.com^
 ||1gbits.com^
@@ -234,6 +234,7 @@
 ||dppet.com^
 ||dreamwithjeffcom.com^
 ||drewcaptures.com^
+||drmattlynch.com^
 ||drzlc.com^
 ||dualmedia.org^
 ||durostech.co.uk^
@@ -247,6 +248,7 @@
 ||ecryptobit.org^
 ||eddmagazine.com^
 ||eddymagazine.com^
+||edrater.com^
 ||educationalbaba.org^
 ||elamatters.com^
 ||elegantcreator.com^
@@ -255,6 +257,7 @@
 ||empirecaption.com^
 ||emsisd.co.uk^
 ||englishgrammarzone.com^
+||entelechy.app^
 ||enterinit.com^
 ||eromelove.com^
 ||eslblock.com^
@@ -629,6 +632,7 @@
 ||optnode.com^
 ||ourcutebabies.com^
 ||oxylabs.io^
+||p-20edcareers.com^
 ||pabington.com^
 ||packspod.com^
 ||pannkpop.com^
@@ -641,6 +645,7 @@
 ||peacequarters.com^
 ||pearsnews.com^
 ||pebblego.us^
+||pedagogue.app^
 ||pedrovazpaulo.uk^
 ||perusemagazine.com^
 ||petbesto.com^
@@ -811,6 +816,7 @@
 ||thebusinesssky.com^
 ||thedailytribute.com^
 ||thedallasdirectory.com^
+||theedadvocate.org^
 ||theethnicgrocer.com^
 ||thefamousparenting.org^
 ||thefashionhob.com^
@@ -852,6 +858,7 @@
 ||thestripesblog.co.uk^
 ||thestripesblog.uk^
 ||thetalearningpoint.com^
+||thetechedvocate.org^
 ||thetechnotricks.net^
 ||thetechylife.com^
 ||thetenrated.com^
@@ -862,6 +869,7 @@
 ||thevalueyournetwork.com^
 ||theweeklyhealthiness.co^
 ||thewhodirect.com^
+||thezeitgeist.co^
 ||thisolderhouse.com^
 ||thithtoolwin.com^
 ||thunderonthegulf.co.uk^

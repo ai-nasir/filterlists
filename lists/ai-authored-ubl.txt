@@ -2,7 +2,7 @@
 name: Ai-nasir's AI-Authored Content Blocklist
 description: Block websites that deceptively serve AI-generated content as human-authored.
 homepage: https://github.com/ai-nasir/filterlists
-version: 20260407201332
+version: 20260802115300
 ---
 *://*.1902studios.com/*
 *://*.1gbits.com/*
@@ -230,6 +230,7 @@ version: 20260407201332
 *://*.dppet.com/*
 *://*.dreamwithjeffcom.com/*
 *://*.drewcaptures.com/*
+*://*.drmattlynch.com/*
 *://*.drzlc.com/*
 *://*.dualmedia.org/*
 *://*.durostech.co.uk/*
@@ -243,6 +244,7 @@ version: 20260407201332
 *://*.ecryptobit.org/*
 *://*.eddmagazine.com/*
 *://*.eddymagazine.com/*
+*://*.edrater.com/*
 *://*.educationalbaba.org/*
 *://*.elamatters.com/*
 *://*.elegantcreator.com/*
@@ -251,6 +253,7 @@ version: 20260407201332
 *://*.empirecaption.com/*
 *://*.emsisd.co.uk/*
 *://*.englishgrammarzone.com/*
+*://*.entelechy.app/*
 *://*.enterinit.com/*
 *://*.eromelove.com/*
 *://*.eslblock.com/*
@@ -625,6 +628,7 @@ version: 20260407201332
 *://*.optnode.com/*
 *://*.ourcutebabies.com/*
 *://*.oxylabs.io/*
+*://*.p-20edcareers.com/*
 *://*.pabington.com/*
 *://*.packspod.com/*
 *://*.pannkpop.com/*
@@ -637,6 +641,7 @@ version: 20260407201332
 *://*.peacequarters.com/*
 *://*.pearsnews.com/*
 *://*.pebblego.us/*
+*://*.pedagogue.app/*
 *://*.pedrovazpaulo.uk/*
 *://*.perusemagazine.com/*
 *://*.petbesto.com/*
@@ -807,6 +812,7 @@ version: 20260407201332
 *://*.thebusinesssky.com/*
 *://*.thedailytribute.com/*
 *://*.thedallasdirectory.com/*
+*://*.theedadvocate.org/*
 *://*.theethnicgrocer.com/*
 *://*.thefamousparenting.org/*
 *://*.thefashionhob.com/*
@@ -848,6 +854,7 @@ version: 20260407201332
 *://*.thestripesblog.co.uk/*
 *://*.thestripesblog.uk/*
 *://*.thetalearningpoint.com/*
+*://*.thetechedvocate.org/*
 *://*.thetechnotricks.net/*
 *://*.thetechylife.com/*
 *://*.thetenrated.com/*
@@ -858,6 +865,7 @@ version: 20260407201332
 *://*.thevalueyournetwork.com/*
 *://*.theweeklyhealthiness.co/*
 *://*.thewhodirect.com/*
+*://*.thezeitgeist.co/*
 *://*.thisolderhouse.com/*
 *://*.thithtoolwin.com/*
 *://*.thunderonthegulf.co.uk/*
